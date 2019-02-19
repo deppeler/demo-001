@@ -1,6 +1,7 @@
 - make a list of tests
 - write code pass test
 - submit to assignment
+-I made it on the screen
 
 
 # list of tests
