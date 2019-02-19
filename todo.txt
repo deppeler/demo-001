@@ -1,3 +1,9 @@
 - make a list of tests
 - write code pass test
 - submit to assignment
+
+
+# list of tests
+- test empty
+- test one
+- test two insert
