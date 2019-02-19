@@ -11,5 +11,3 @@
 - test remove
 - test height
 
-
-from deb 2
