@@ -7,3 +7,5 @@
 - test empty
 - test one
 - test two insert
+- test remove
+- test height
